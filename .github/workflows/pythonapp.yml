@@ -19,4 +19,3 @@ jobs:
       run: |
         pip install pyyaml
         python run_test.py
-        python Advanced/run_advanced_test.py
