@@ -15,6 +15,5 @@ jobs:
         python-version: 3.7
     - name: Test with pytest
       run: |
+        pip install pyyaml
         python run_test.py
-        pip install pytest
-        pytest
