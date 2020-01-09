@@ -1,5 +1,5 @@
-print("Test execution starts")
+print("Advanced Test execution starts")
 for x in range(10):
   print("ADVANCED TEST PASS - " + str(x))
 
-print("Test execution completed")
+print("Advanced Test execution completed")
